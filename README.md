@@ -1,4 +1,4 @@
-# Final Project - .NET Application
+# .NET Application Project
 
 This project is a .NET-based application, built using WPF (Windows Presentation Foundation). The application structure follows a typical WPF project, with the main components being the XAML-based UI and the accompanying C# code-behind files for business logic and interaction.
 
