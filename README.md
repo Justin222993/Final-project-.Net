@@ -63,4 +63,3 @@ This is the solution file for the project, which holds all the projects within t
 5. Run the application:
    ```bash
    dotnet run
-  ```
